@@ -136,7 +136,7 @@ Inne biblioteki, takie jak : scipy, statsmodels, również są przydatne, ale w 
 Jak dołączyć
 ------------
 
-Podstawowym warunkiem używania Colab jest założenie konta w serwisie Google. Oprócz dziesiątek aplikacji sieciowych, właściciel takiego konta może dodać aplikację Colab. W momencie, kiedy już mamy konto Google (prawie każdy z telefonem android je ma, nie liczę osób z custom ROM :)) klikamy na nowy element --> Więcej i odnajdujemy Colaboratory naliście. To wszystko. Prawda, że proste?
+Podstawowym warunkiem używania Colab jest założenie konta w serwisie Google. Oprócz dziesiątek aplikacji sieciowych, właściciel takiego konta może dodać aplikację Colab. W momencie, kiedy już mamy konto Google (prawie każdy z telefonem android je ma, nie liczę osób z custom ROM :)) przechodzimy do aplikacji Google Drive i klikamy na nowy element --> Więcej i odnajdujemy Colaboratory naliście. To wszystko. Prawda, że proste?
 
 
 .. figure:: _static/join_1.png
