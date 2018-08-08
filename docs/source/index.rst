@@ -22,6 +22,7 @@ Spis treści
    :maxdepth: 2
 
    quickstart
+   colab
 
 
 
