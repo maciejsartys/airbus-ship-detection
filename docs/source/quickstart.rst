@@ -93,7 +93,7 @@ Większość skryptów zmieści się w pojedynczym notebooku, który zamieszczę
         - Predykcja i utworzenie pliku do submisji
 
 
-Każdy z tych etapów będzie wymagał jakiejś dyskusji (slack/hangout, ponieważ pisanie tekstu zajmuje więcej czasu, niż mówienie do mikrofonu). Do administracji możemy użyć trello z poziomu Slacka, lub tablicy githuba do zarządzania zadaniami. Ponieważ, to ja jestem pomysłodawcą, będę również koordynatorem wprowadzającym przedyskutowane zmiany, etapy na koncie projektu. jednak proponuję wyznaczyć kilka osób, które również będą mogły działać w projekcie (dodam je do grupy na GH) na wypadek mojej absencji (rodzina, dom, wakacje :-) )
+Każdy z tych etapów będzie wymagał jakiejś dyskusji (slack/hangout, ponieważ pisanie tekstu zajmuje więcej czasu, niż mówienie do mikrofonu). Do administracji możemy użyć trello z poziomu Slacka, lub tablicy githuba do zarządzania zadaniami. Ponieważ, to ja jestem pomysłodawcą, będę również koordynatorem wprowadzającym przedyskutowane zmiany, etapy na koncie projektu. Jednak proponuję wyznaczyć kilka osób, które również będą mogły działać w projekcie (dodam je do grupy na GH) na wypadek mojej absencji (rodzina, dom, wakacje :-) )
 
 Pozostałe sprawy organizacyjne
 ------------------------------
