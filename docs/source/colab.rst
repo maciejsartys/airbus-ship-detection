@@ -216,6 +216,9 @@ Aby dokładnie poznać parametry ndostępnej karty graficznej, wpisujemy:
     incarnation: 9298481268220974714
     physical_device_desc: "device: 0, name: Tesla K80, pci bus id: 0000:00:04.0, compute capability: 3.7"
 
+.. figure:: _static/gpu_specs.png
+    :align: center
+    :scale: 60%
 
 
 
