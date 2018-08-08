@@ -24,9 +24,9 @@ copyright = '2018, Michał DYzma et. al.'
 author = 'Michał DYzma et. al.'
 
 # The short X.Y version
-version = ''
+version = '0.0.1'
 # The full version, including alpha/beta/rc tags
-release = ''
+release = '0.0.1'
 
 
 # -- General configuration ---------------------------------------------------
@@ -34,6 +34,7 @@ release = ''
 # If your documentation needs a minimal Sphinx version, state it here.
 #
 # needs_sphinx = '1.0'
+today_fmt = '%d/%m/%Y %H:%M'
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom

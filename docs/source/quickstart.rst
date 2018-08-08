@@ -6,6 +6,7 @@ Szybki start
 Ogólne informacje odnośnie projektu. Zakładam, że uczestnicy znają Pythona w stopniu minimum podstawowym i posiadają przynajmniej ogólną wiedzę dotyczxącą zagadnień Machine Learning i Deep Learning. W toku prac przygotuję odpowiednie "bryki" dotyczące szczegółów implementacji sieci neuronowych i zasad ich działania. Różnice, plusy, minusy. 
 
 
+
 Ważne linki
 -----------
 
@@ -18,6 +19,7 @@ Dokumentacja      https://airbus-ship-detection.readthedocs.io/en/latest/
 ===============   =======================================================
 
 
+
 Terminy
 -------
 
@@ -28,9 +30,10 @@ Submisje           **27. Wrzesień 2018**
 Koniec konkursu    **4. Październik 2018 23:59 UTC**
 ===============    ==================================
 
+
+
 Nagrody
 -------
-
 
 Łączna pula nagród: **$60,000**
 
@@ -49,7 +52,6 @@ Wybrane zasady
 1. Pięć submisji na dobę
 2. Możliwość wyboru 2 do oceny finałowej.
 3. Zakaz używania zewnętrznych zestawów danych (patrz dyskusja_), ale możliwość używania pre-trenowanych sieci pod warunkiem ich rejestracji na Forum.
-
 
 
 
@@ -90,12 +92,13 @@ Większość skryptów zmieści się w pojedynczym notebooku, który zamieszczę
         - Zapisanie modelu
         - Predykcja i utworzenie pliku do submisji
 
+
 Każdy z tych etapów będzie wymagał jakiejś dyskusji (slack/hangout, ponieważ pisanie tekstu zajmuje więcej czasu, niż mówienie do mikrofonu). Do administracji możemy użyć trello z poziomu Slacka, lub tablicy githuba do zarządzania zadaniami. Ponieważ, to ja jestem pomysłodawcą, będę również koordynatorem wprowadzającym przedyskutowane zmiany, etapy na koncie projektu. jednak proponuję wyznaczyć kilka osób, które również będą mogły działać w projekcie (dodam je do grupy na GH) na wypadek mojej absencji (rodzina, dom, wakacje :-) )
 
 Pozostałe sprawy organizacyjne
 ------------------------------
 
-Generalnie możemy się umówić na codzienne spotkania na colab (10-15 minut max). Będziemy w miarę możliwości "symulować" metodologię scrum, ale dopasowaną do naszych potrzeb. mamy już kanał na  i założyć osobny kanał na slack_, żeby móc się komunikować. Jeżeli ktoś ma możliwości można też podczas sesji z colab używać hangouta. Czas spotkań do ustalenia.
+Generalnie możemy się umówić na codzienne spotkania na colab (10-15 minut max). Będziemy w miarę możliwości "symulować" metodologię scrum, ale dopasowaną do naszych potrzeb. Mamy już kanał na slack_, żeby móc się komunikować (jest możliwość dzwonienia do siebie, nie wiem jak z wieloosobowymi telekonferencjami). Jeżeli ktoś ma możliwości można też podczas sesji z colab używać hangouta, tam z pewnością można zapraszać wielu uczestników. Termin spotkań do ustalenia.
 
 Kolejne rozdziały będą opisem tego jak co zrobić, lub zbiorem linków do przydatnych tutoriali i artykułów w sieci.
 

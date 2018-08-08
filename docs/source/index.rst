@@ -4,9 +4,9 @@ Witam w wyzwaniu Airbusa
 
 |docs|
 
-================== =============
-**Last modified:** |today|
-================== =============
+======================   ============================
+**Ostatnio zmieniony**   |today|
+======================   ============================
 
 
 Wyzwanie zostało opublikowane na portalu Kaggle_ *30. lipca 2018*. Dokumentacja będzie pisana w języku Polskim, ale ze względu na specyfikę dziedziny będę stosował wiele zapożyczeń. Purystów językowych z góry przepraszam. 
@@ -18,11 +18,8 @@ Spis treści
 ===========
 
 
-
-
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    quickstart
 
@@ -41,6 +38,3 @@ Indices and tables
     :alt: Documentation Status
 
 .. _Kaggle: https://www.kaggle.com/c/airbus-ship-detection
-
-
-. 
