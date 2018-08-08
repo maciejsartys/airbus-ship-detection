@@ -179,6 +179,46 @@ a następne zaznaczamy:
 
 Gotowe!
 
+Zeby sprawdzić, czy operacja sięudała wpisujemy w wolną komórkę z kodem:
+
+
+
+.. code-block:: python
+    
+    import tensorflow as tf
+    tf.test.gpu_device_name()
+
+    '/device:GPU:0'
+
+Powinniśmy uzyskać string z miejscem montowania GPU. Jeżeli pojawił sie pusty string, to oznacza, żę aktywacja GPU nie powiodła się. 
+
+Aby dokładnie poznać parametry ndostępnej karty graficznej, wpisujemy:
+
+
+.. code-block:: python
+    
+    from tensorflow.python.client import device_lib
+    device_lib.list_local_devices()
+
+    [name: "/device:CPU:0"
+    device_type: "CPU"
+    memory_limit: 268435456
+    locality {
+    }
+    incarnation: 13693741527332965188, name: "/device:GPU:0"
+    device_type: "GPU"
+    memory_limit: 11281989632
+    locality {
+      bus_id: 1
+      links {
+      }
+    }
+    incarnation: 9298481268220974714
+    physical_device_desc: "device: 0, name: Tesla K80, pci bus id: 0000:00:04.0, compute capability: 3.7"
+
+
+
+
 Ważne linki
 -----------
 

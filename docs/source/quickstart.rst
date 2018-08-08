@@ -87,7 +87,7 @@ Większość skryptów zmieści się w pojedynczym notebooku, który zamieszczę
         - Próba znanych pre-trenowanych sieci neuronowych i zmian danych na sub-próbie testowej (szybkość)
         - Ostateczne uformowanie etapów pracy w pipeline
         - Trening wszystkich danych treningowych na GPU Colab (potrzebne nowe konto, zestaw testowy ma  14.5GB)
-        - Ewaluacja przyużyciu danych testowych (osobne konto z przeniesioną siecią neuronową)
+        - Ewaluacja przy użyciu danych testowych (osobne konto z przeniesioną siecią neuronową)
         - Modyfikacje, prunning (opcjonalne) <- GOTO 6
         - Zapisanie modelu
         - Predykcja i utworzenie pliku do submisji
